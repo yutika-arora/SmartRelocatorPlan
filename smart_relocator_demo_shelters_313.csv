@@ -1,0 +1,314 @@
+shelter_id,shelter_name,district,state,hazard_type,total_capacity_people,illustrative_people_present,illustrative_available_spaces,accessibility_status,medical_support_status,data_status
+DEMO-SH-001,Demo Shelter 001,Dhemaji,Assam,River flood,80,0,80,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-002,Demo Shelter 002,Majuli,Assam,River flood,117,19,98,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-003,Demo Shelter 003,Barpeta,Assam,River flood,154,38,116,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-004,Demo Shelter 004,Lakhimpur,Assam,River flood,191,57,134,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-005,Demo Shelter 005,Cachar,Assam,River flood,228,76,152,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-006,Demo Shelter 006,Darbhanga,Bihar,River flood,265,95,170,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-007,Demo Shelter 007,Madhubani,Bihar,River flood,302,114,188,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-008,Demo Shelter 008,Supaul,Bihar,River flood,339,133,206,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-009,Demo Shelter 009,Kendrapara,Odisha,Coastal flood,376,152,224,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-010,Demo Shelter 010,Jagatsinghpur,Odisha,Cyclone/coastal flood,413,171,242,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-011,Demo Shelter 011,Chamoli,Uttarakhand,Flash flood/landslide,450,190,260,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-012,Demo Shelter 012,Rudraprayag,Uttarakhand,Flash flood/landslide,487,209,278,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-013,Demo Shelter 013,Kullu,Himachal Pradesh,Flash flood/landslide,103,20,83,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-014,Demo Shelter 014,Bahraich,Uttar Pradesh,River flood,140,106,34,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-015,Demo Shelter 015,Murshidabad,West Bengal,River flood,177,88,89,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-016,Demo Shelter 016,South 24 Parganas,West Bengal,Cyclone/coastal flood,214,70,144,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-017,Demo Shelter 017,Ganjam,Odisha,Cyclone/coastal flood,251,52,199,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-018,Demo Shelter 018,Purnia,Bihar,River flood,288,34,254,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-019,Demo Shelter 019,East Champaran,Bihar,River flood,325,16,309,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-020,Demo Shelter 020,Dibrugarh,Assam,River flood,362,361,1,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-021,Demo Shelter 021,Dhemaji,Assam,River flood,399,380,19,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-022,Demo Shelter 022,Majuli,Assam,River flood,436,399,37,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-023,Demo Shelter 023,Barpeta,Assam,River flood,473,418,55,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-024,Demo Shelter 024,Lakhimpur,Assam,River flood,89,77,12,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-025,Demo Shelter 025,Cachar,Assam,River flood,126,75,51,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-026,Demo Shelter 026,Darbhanga,Bihar,River flood,163,147,16,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-027,Demo Shelter 027,Madhubani,Bihar,River flood,200,92,108,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-028,Demo Shelter 028,Supaul,Bihar,River flood,237,37,200,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-029,Demo Shelter 029,Kendrapara,Odisha,Coastal flood,274,257,17,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-030,Demo Shelter 030,Jagatsinghpur,Odisha,Cyclone/coastal flood,311,239,72,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-031,Demo Shelter 031,Chamoli,Uttarakhand,Flash flood/landslide,348,221,127,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-032,Demo Shelter 032,Rudraprayag,Uttarakhand,Flash flood/landslide,385,203,182,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-033,Demo Shelter 033,Kullu,Himachal Pradesh,Flash flood/landslide,422,185,237,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-034,Demo Shelter 034,Bahraich,Uttar Pradesh,River flood,459,167,292,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-035,Demo Shelter 035,Murshidabad,West Bengal,River flood,496,149,347,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-036,Demo Shelter 036,South 24 Parganas,West Bengal,Cyclone/coastal flood,112,100,12,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-037,Demo Shelter 037,Ganjam,Odisha,Cyclone/coastal flood,149,84,65,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-038,Demo Shelter 038,Purnia,Bihar,River flood,186,142,44,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-039,Demo Shelter 039,East Champaran,Bihar,River flood,223,50,173,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-040,Demo Shelter 040,Dibrugarh,Assam,River flood,260,219,41,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-041,Demo Shelter 041,Dhemaji,Assam,River flood,297,164,133,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-042,Demo Shelter 042,Majuli,Assam,River flood,334,109,225,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-043,Demo Shelter 043,Barpeta,Assam,River flood,371,54,317,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-044,Demo Shelter 044,Lakhimpur,Assam,River flood,408,408,0,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-045,Demo Shelter 045,Cachar,Assam,River flood,445,390,55,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-046,Demo Shelter 046,Darbhanga,Bihar,River flood,482,372,110,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-047,Demo Shelter 047,Madhubani,Bihar,River flood,98,82,16,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-048,Demo Shelter 048,Supaul,Bihar,River flood,135,77,58,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-049,Demo Shelter 049,Kendrapara,Odisha,Coastal flood,172,47,125,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-050,Demo Shelter 050,Jagatsinghpur,Odisha,Cyclone/coastal flood,209,91,118,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-051,Demo Shelter 051,Chamoli,Uttarakhand,Flash flood/landslide,246,209,37,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-052,Demo Shelter 052,Rudraprayag,Uttarakhand,Flash flood/landslide,283,117,166,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-053,Demo Shelter 053,Kullu,Himachal Pradesh,Flash flood/landslide,320,25,295,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-054,Demo Shelter 054,Bahraich,Uttar Pradesh,River flood,357,291,66,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-055,Demo Shelter 055,Murshidabad,West Bengal,River flood,394,236,158,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-056,Demo Shelter 056,South 24 Parganas,West Bengal,Cyclone/coastal flood,431,181,250,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-057,Demo Shelter 057,Ganjam,Odisha,Cyclone/coastal flood,468,126,342,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-058,Demo Shelter 058,Purnia,Bihar,River flood,84,63,21,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-059,Demo Shelter 059,East Champaran,Bihar,River flood,121,4,117,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-060,Demo Shelter 060,Dibrugarh,Assam,River flood,158,8,150,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-061,Demo Shelter 061,Dhemaji,Assam,River flood,195,160,35,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-062,Demo Shelter 062,Majuli,Assam,River flood,232,227,5,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-063,Demo Shelter 063,Barpeta,Assam,River flood,269,98,171,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-064,Demo Shelter 064,Lakhimpur,Assam,River flood,306,276,30,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-065,Demo Shelter 065,Cachar,Assam,River flood,343,184,159,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-066,Demo Shelter 066,Darbhanga,Bihar,River flood,380,92,288,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-067,Demo Shelter 067,Madhubani,Bihar,River flood,417,0,417,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-068,Demo Shelter 068,Supaul,Bihar,River flood,454,363,91,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-069,Demo Shelter 069,Kendrapara,Odisha,Coastal flood,491,308,183,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-070,Demo Shelter 070,Jagatsinghpur,Odisha,Cyclone/coastal flood,107,15,92,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-071,Demo Shelter 071,Chamoli,Uttarakhand,Flash flood/landslide,144,25,119,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-072,Demo Shelter 072,Rudraprayag,Uttarakhand,Flash flood/landslide,181,75,106,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-073,Demo Shelter 073,Kullu,Himachal Pradesh,Flash flood/landslide,218,54,164,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-074,Demo Shelter 074,Bahraich,Uttar Pradesh,River flood,255,107,148,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-075,Demo Shelter 075,Murshidabad,West Bengal,River flood,292,234,58,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-076,Demo Shelter 076,South 24 Parganas,West Bengal,Cyclone/coastal flood,329,105,224,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-077,Demo Shelter 077,Ganjam,Odisha,Cyclone/coastal flood,366,343,23,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-078,Demo Shelter 078,Purnia,Bihar,River flood,403,251,152,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-079,Demo Shelter 079,East Champaran,Bihar,River flood,440,159,281,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-080,Demo Shelter 080,Dibrugarh,Assam,River flood,477,67,410,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-081,Demo Shelter 081,Dhemaji,Assam,River flood,93,16,77,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-082,Demo Shelter 082,Majuli,Assam,River flood,130,98,32,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-083,Demo Shelter 083,Barpeta,Assam,River flood,167,46,121,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-084,Demo Shelter 084,Lakhimpur,Assam,River flood,204,142,62,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-085,Demo Shelter 085,Cachar,Assam,River flood,241,144,97,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-086,Demo Shelter 086,Darbhanga,Bihar,River flood,278,220,58,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-087,Demo Shelter 087,Madhubani,Bihar,River flood,315,54,261,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-088,Demo Shelter 088,Supaul,Bihar,River flood,352,241,111,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-089,Demo Shelter 089,Kendrapara,Odisha,Coastal flood,389,112,277,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-090,Demo Shelter 090,Jagatsinghpur,Odisha,Cyclone/coastal flood,426,410,16,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-091,Demo Shelter 091,Chamoli,Uttarakhand,Flash flood/landslide,463,318,145,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-092,Demo Shelter 092,Rudraprayag,Uttarakhand,Flash flood/landslide,500,226,274,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-093,Demo Shelter 093,Kullu,Himachal Pradesh,Flash flood/landslide,116,110,6,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-094,Demo Shelter 094,Bahraich,Uttar Pradesh,River flood,153,73,80,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-095,Demo Shelter 095,Murshidabad,West Bengal,River flood,190,67,123,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-096,Demo Shelter 096,South 24 Parganas,West Bengal,Cyclone/coastal flood,227,209,18,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-097,Demo Shelter 097,Ganjam,Odisha,Cyclone/coastal flood,264,234,30,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-098,Demo Shelter 098,Purnia,Bihar,River flood,301,31,270,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-099,Demo Shelter 099,East Champaran,Bihar,River flood,338,167,171,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-100,Demo Shelter 100,Dibrugarh,Assam,River flood,375,1,374,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-101,Demo Shelter 101,Dhemaji,Assam,River flood,412,248,164,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-102,Demo Shelter 102,Majuli,Assam,River flood,449,119,330,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-103,Demo Shelter 103,Barpeta,Assam,River flood,486,477,9,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-104,Demo Shelter 104,Lakhimpur,Assam,River flood,102,0,102,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-105,Demo Shelter 105,Cachar,Assam,River flood,139,16,123,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-106,Demo Shelter 106,Darbhanga,Bihar,River flood,176,48,128,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-107,Demo Shelter 107,Madhubani,Bihar,River flood,213,88,125,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-108,Demo Shelter 108,Supaul,Bihar,River flood,250,25,225,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-109,Demo Shelter 109,Kendrapara,Odisha,Coastal flood,287,36,251,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-110,Demo Shelter 110,Jagatsinghpur,Odisha,Cyclone/coastal flood,324,121,203,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-111,Demo Shelter 111,Chamoli,Uttarakhand,Flash flood/landslide,361,280,81,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-112,Demo Shelter 112,Rudraprayag,Uttarakhand,Flash flood/landslide,398,114,284,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-113,Demo Shelter 113,Kullu,Himachal Pradesh,Flash flood/landslide,435,384,51,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-114,Demo Shelter 114,Bahraich,Uttar Pradesh,River flood,472,255,217,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-115,Demo Shelter 115,Murshidabad,West Bengal,River flood,88,30,58,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-116,Demo Shelter 116,South 24 Parganas,West Bengal,Cyclone/coastal flood,125,43,82,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-117,Demo Shelter 117,Ganjam,Odisha,Cyclone/coastal flood,162,85,77,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-118,Demo Shelter 118,Purnia,Bihar,River flood,199,23,176,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-119,Demo Shelter 119,East Champaran,Bihar,River flood,236,109,127,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-120,Demo Shelter 120,Dibrugarh,Assam,River flood,273,69,204,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-121,Demo Shelter 121,Dhemaji,Assam,River flood,310,103,207,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-122,Demo Shelter 122,Majuli,Assam,River flood,347,211,136,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-123,Demo Shelter 123,Barpeta,Assam,River flood,384,8,376,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-124,Demo Shelter 124,Lakhimpur,Assam,River flood,421,227,194,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-125,Demo Shelter 125,Cachar,Assam,River flood,458,61,397,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-126,Demo Shelter 126,Darbhanga,Bihar,River flood,495,391,104,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-127,Demo Shelter 127,Madhubani,Bihar,River flood,111,42,69,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-128,Demo Shelter 128,Supaul,Bihar,River flood,148,29,119,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-129,Demo Shelter 129,Kendrapara,Odisha,Coastal flood,185,14,171,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-130,Demo Shelter 130,Jagatsinghpur,Odisha,Cyclone/coastal flood,222,221,1,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-131,Demo Shelter 131,Chamoli,Uttarakhand,Flash flood/landslide,259,130,129,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-132,Demo Shelter 132,Rudraprayag,Uttarakhand,Flash flood/landslide,296,113,183,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-133,Demo Shelter 133,Kullu,Himachal Pradesh,Flash flood/landslide,333,170,163,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-134,Demo Shelter 134,Bahraich,Uttar Pradesh,River flood,370,301,69,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-135,Demo Shelter 135,Murshidabad,West Bengal,River flood,407,98,309,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-136,Demo Shelter 136,South 24 Parganas,West Bengal,Cyclone/coastal flood,444,340,104,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-137,Demo Shelter 137,Ganjam,Odisha,Cyclone/coastal flood,481,174,307,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-138,Demo Shelter 138,Purnia,Bihar,River flood,97,55,42,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-139,Demo Shelter 139,East Champaran,Bihar,River flood,134,57,77,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-140,Demo Shelter 140,Dibrugarh,Assam,River flood,171,61,110,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-141,Demo Shelter 141,Dhemaji,Assam,River flood,208,152,56,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-142,Demo Shelter 142,Majuli,Assam,River flood,245,219,26,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-143,Demo Shelter 143,Barpeta,Assam,River flood,282,151,131,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-144,Demo Shelter 144,Lakhimpur,Assam,River flood,319,157,162,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-145,Demo Shelter 145,Cachar,Assam,River flood,356,237,119,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-146,Demo Shelter 146,Darbhanga,Bihar,River flood,393,391,2,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-147,Demo Shelter 147,Madhubani,Bihar,River flood,430,188,242,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-148,Demo Shelter 148,Supaul,Bihar,River flood,467,453,14,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-149,Demo Shelter 149,Kendrapara,Odisha,Coastal flood,83,40,43,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-150,Demo Shelter 150,Jagatsinghpur,Odisha,Cyclone/coastal flood,120,48,72,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-151,Demo Shelter 151,Chamoli,Uttarakhand,Flash flood/landslide,157,6,151,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-152,Demo Shelter 152,Rudraprayag,Uttarakhand,Flash flood/landslide,194,139,55,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-153,Demo Shelter 153,Kullu,Himachal Pradesh,Flash flood/landslide,231,104,127,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-154,Demo Shelter 154,Bahraich,Uttar Pradesh,River flood,268,217,51,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-155,Demo Shelter 155,Murshidabad,West Bengal,River flood,305,172,133,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-156,Demo Shelter 156,South 24 Parganas,West Bengal,Cyclone/coastal flood,342,201,141,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-157,Demo Shelter 157,Ganjam,Odisha,Cyclone/coastal flood,379,304,75,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-158,Demo Shelter 158,Purnia,Bihar,River flood,416,64,352,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-159,Demo Shelter 159,East Champaran,Bihar,River flood,453,278,175,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-160,Demo Shelter 160,Dibrugarh,Assam,River flood,490,75,415,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-161,Demo Shelter 161,Dhemaji,Assam,River flood,106,44,62,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-162,Demo Shelter 162,Majuli,Assam,River flood,143,35,108,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-163,Demo Shelter 163,Barpeta,Assam,River flood,180,1,179,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-164,Demo Shelter 164,Lakhimpur,Assam,River flood,217,45,172,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-165,Demo Shelter 165,Cachar,Assam,River flood,254,56,198,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-166,Demo Shelter 166,Darbhanga,Bihar,River flood,291,215,76,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-167,Demo Shelter 167,Madhubani,Bihar,River flood,328,193,135,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-168,Demo Shelter 168,Supaul,Bihar,River flood,365,245,120,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-169,Demo Shelter 169,Kendrapara,Odisha,Coastal flood,402,371,31,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-170,Demo Shelter 170,Jagatsinghpur,Odisha,Cyclone/coastal flood,439,131,308,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-171,Demo Shelter 171,Chamoli,Uttarakhand,Flash flood/landslide,476,368,108,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-172,Demo Shelter 172,Rudraprayag,Uttarakhand,Flash flood/landslide,92,87,5,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-173,Demo Shelter 173,Kullu,Himachal Pradesh,Flash flood/landslide,129,18,111,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-174,Demo Shelter 174,Bahraich,Uttar Pradesh,River flood,166,114,52,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-175,Demo Shelter 175,Murshidabad,West Bengal,River flood,203,42,161,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-176,Demo Shelter 176,South 24 Parganas,West Bengal,Cyclone/coastal flood,240,192,48,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-177,Demo Shelter 177,Ganjam,Odisha,Cyclone/coastal flood,277,8,269,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-178,Demo Shelter 178,Purnia,Bihar,River flood,314,213,101,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-179,Demo Shelter 179,East Champaran,Bihar,River flood,351,214,137,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-180,Demo Shelter 180,Dibrugarh,Assam,River flood,388,289,99,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-181,Demo Shelter 181,Dhemaji,Assam,River flood,425,12,413,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-182,Demo Shelter 182,Majuli,Assam,River flood,462,198,264,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-183,Demo Shelter 183,Barpeta,Assam,River flood,499,458,41,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-184,Demo Shelter 184,Lakhimpur,Assam,River flood,115,113,2,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-185,Demo Shelter 185,Cachar,Assam,River flood,152,130,22,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-186,Demo Shelter 186,Darbhanga,Bihar,River flood,189,95,94,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-187,Demo Shelter 187,Madhubani,Bihar,River flood,226,129,97,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-188,Demo Shelter 188,Supaul,Bihar,River flood,263,121,142,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-189,Demo Shelter 189,Kendrapara,Odisha,Coastal flood,300,261,39,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-190,Demo Shelter 190,Jagatsinghpur,Odisha,Cyclone/coastal flood,337,211,126,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-191,Demo Shelter 191,Chamoli,Uttarakhand,Flash flood/landslide,374,235,139,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-192,Demo Shelter 192,Rudraprayag,Uttarakhand,Flash flood/landslide,411,333,78,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-193,Demo Shelter 193,Kullu,Himachal Pradesh,Flash flood/landslide,448,56,392,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-194,Demo Shelter 194,Bahraich,Uttar Pradesh,River flood,485,265,220,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-195,Demo Shelter 195,Murshidabad,West Bengal,River flood,101,14,87,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-196,Demo Shelter 196,South 24 Parganas,West Bengal,Cyclone/coastal flood,138,91,47,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-197,Demo Shelter 197,Ganjam,Odisha,Cyclone/coastal flood,175,28,147,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-198,Demo Shelter 198,Purnia,Bihar,River flood,212,122,90,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-199,Demo Shelter 199,East Champaran,Bihar,River flood,249,12,237,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-200,Demo Shelter 200,Dibrugarh,Assam,River flood,286,50,236,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-201,Demo Shelter 201,Dhemaji,Assam,River flood,323,236,87,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-202,Demo Shelter 202,Majuli,Assam,River flood,360,209,151,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-203,Demo Shelter 203,Barpeta,Assam,River flood,397,256,141,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-204,Demo Shelter 204,Lakhimpur,Assam,River flood,434,377,57,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-205,Demo Shelter 205,Cachar,Assam,River flood,471,100,371,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-206,Demo Shelter 206,Darbhanga,Bihar,River flood,87,23,64,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-207,Demo Shelter 207,Madhubani,Bihar,River flood,124,39,85,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-208,Demo Shelter 208,Supaul,Bihar,River flood,161,45,116,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-209,Demo Shelter 209,Kendrapara,Odisha,Coastal flood,198,171,27,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-210,Demo Shelter 210,Jagatsinghpur,Odisha,Cyclone/coastal flood,235,195,40,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-211,Demo Shelter 211,Chamoli,Uttarakhand,Flash flood/landslide,272,168,104,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-212,Demo Shelter 212,Rudraprayag,Uttarakhand,Flash flood/landslide,309,289,20,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-213,Demo Shelter 213,Kullu,Himachal Pradesh,Flash flood/landslide,346,211,135,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-214,Demo Shelter 214,Bahraich,Uttar Pradesh,River flood,383,207,176,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-215,Demo Shelter 215,Murshidabad,West Bengal,River flood,420,277,143,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-216,Demo Shelter 216,South 24 Parganas,West Bengal,Cyclone/coastal flood,457,421,36,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-217,Demo Shelter 217,Ganjam,Odisha,Cyclone/coastal flood,494,144,350,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-218,Demo Shelter 218,Purnia,Bihar,River flood,110,16,94,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-219,Demo Shelter 219,East Champaran,Bihar,River flood,147,146,1,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-220,Demo Shelter 220,Dibrugarh,Assam,River flood,184,91,93,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-221,Demo Shelter 221,Dhemaji,Assam,River flood,221,184,37,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-222,Demo Shelter 222,Majuli,Assam,River flood,258,55,203,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-223,Demo Shelter 223,Barpeta,Assam,River flood,295,74,221,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-224,Demo Shelter 224,Lakhimpur,Assam,River flood,332,241,91,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-225,Demo Shelter 225,Cachar,Assam,River flood,369,186,183,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-226,Demo Shelter 226,Darbhanga,Bihar,River flood,406,205,201,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-227,Demo Shelter 227,Madhubani,Bihar,River flood,443,298,145,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-228,Demo Shelter 228,Supaul,Bihar,River flood,480,465,15,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-229,Demo Shelter 229,Kendrapara,Odisha,Coastal flood,96,64,32,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-230,Demo Shelter 230,Jagatsinghpur,Odisha,Cyclone/coastal flood,133,63,70,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-231,Demo Shelter 231,Chamoli,Uttarakhand,Flash flood/landslide,170,95,75,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-232,Demo Shelter 232,Rudraprayag,Uttarakhand,Flash flood/landslide,207,21,186,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-233,Demo Shelter 233,Kullu,Himachal Pradesh,Flash flood/landslide,244,243,1,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-234,Demo Shelter 234,Bahraich,Uttar Pradesh,River flood,281,197,84,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-235,Demo Shelter 235,Murshidabad,West Bengal,River flood,318,299,19,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-236,Demo Shelter 236,South 24 Parganas,West Bengal,Cyclone/coastal flood,355,193,162,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-237,Demo Shelter 237,Ganjam,Odisha,Cyclone/coastal flood,392,161,231,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-238,Demo Shelter 238,Purnia,Bihar,River flood,429,203,226,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-239,Demo Shelter 239,East Champaran,Bihar,River flood,466,319,147,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-240,Demo Shelter 240,Dibrugarh,Assam,River flood,82,59,23,Yes,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-241,Demo Shelter 241,Dhemaji,Assam,River flood,119,0,119,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-242,Demo Shelter 242,Majuli,Assam,River flood,156,26,130,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-243,Demo Shelter 243,Barpeta,Assam,River flood,193,136,57,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-244,Demo Shelter 244,Lakhimpur,Assam,River flood,230,228,2,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-245,Demo Shelter 245,Cachar,Assam,River flood,267,80,187,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-246,Demo Shelter 246,Darbhanga,Bihar,River flood,304,80,224,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-247,Demo Shelter 247,Madhubani,Bihar,River flood,341,228,113,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-248,Demo Shelter 248,Supaul,Bihar,River flood,378,145,233,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-249,Demo Shelter 249,Kendrapara,Odisha,Coastal flood,415,136,279,Partial,Basic,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-250,Demo Shelter 250,Jagatsinghpur,Odisha,Cyclone/coastal flood,452,201,251,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-251,Demo Shelter HP Mandi-01,Mandi,Himachal Pradesh,Heavy snowfall,108,26,82,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-252,Demo Shelter HP Mandi-02,Mandi,Himachal Pradesh,Severe weather,136,9,127,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-253,Demo Shelter HP Mandi-03,Mandi,Himachal Pradesh,Flash flood,164,160,4,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-254,Demo Shelter HP Mandi-04,Mandi,Himachal Pradesh,Earthquake,192,93,99,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-255,Demo Shelter HP Mandi-05,Mandi,Himachal Pradesh,Landslide,79,10,69,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-256,Demo Shelter HP Mandi-06,Mandi,Himachal Pradesh,Heavy snowfall,107,34,73,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-257,Demo Shelter HP Mandi-07,Mandi,Himachal Pradesh,Severe weather,135,122,13,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-258,Demo Shelter HP Mandi-08,Mandi,Himachal Pradesh,Flash flood,163,106,57,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-259,Demo Shelter HP Mandi-09,Mandi,Himachal Pradesh,Earthquake,191,10,181,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-260,Demo Shelter HP Mandi-10,Mandi,Himachal Pradesh,Landslide,78,54,24,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-261,Demo Shelter HP Mandi-11,Mandi,Himachal Pradesh,Heavy snowfall,106,44,62,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-262,Demo Shelter HP Mandi-12,Mandi,Himachal Pradesh,Severe weather,134,100,34,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-263,Demo Shelter HP Kangra-01,Kangra,Himachal Pradesh,Severe weather,171,134,37,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-264,Demo Shelter HP Kangra-02,Kangra,Himachal Pradesh,Flash flood,199,74,125,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-265,Demo Shelter HP Kangra-03,Kangra,Himachal Pradesh,Earthquake,86,67,19,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-266,Demo Shelter HP Kangra-04,Kangra,Himachal Pradesh,Landslide,114,74,40,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-267,Demo Shelter HP Kangra-05,Kangra,Himachal Pradesh,Heavy snowfall,142,75,67,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-268,Demo Shelter HP Kangra-06,Kangra,Himachal Pradesh,Severe weather,170,73,97,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-269,Demo Shelter HP Kangra-07,Kangra,Himachal Pradesh,Flash flood,198,183,15,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-270,Demo Shelter HP Kangra-08,Kangra,Himachal Pradesh,Earthquake,85,16,69,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-271,Demo Shelter HP Kangra-09,Kangra,Himachal Pradesh,Landslide,113,76,37,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-272,Demo Shelter HP Kangra-10,Kangra,Himachal Pradesh,Heavy snowfall,141,46,95,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-273,Demo Shelter HP Kangra-11,Kangra,Himachal Pradesh,Severe weather,169,14,155,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-274,Demo Shelter HP Kangra-12,Kangra,Himachal Pradesh,Flash flood,197,94,103,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-275,Demo Shelter HP Shimla-01,Shimla,Himachal Pradesh,Flash flood,93,58,35,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-276,Demo Shelter HP Shimla-02,Shimla,Himachal Pradesh,Earthquake,121,6,115,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-277,Demo Shelter HP Shimla-03,Shimla,Himachal Pradesh,Landslide,149,28,121,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-278,Demo Shelter HP Shimla-04,Shimla,Himachal Pradesh,Heavy snowfall,177,40,137,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-279,Demo Shelter HP Shimla-05,Shimla,Himachal Pradesh,Severe weather,64,3,61,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-280,Demo Shelter HP Shimla-06,Shimla,Himachal Pradesh,Flash flood,92,85,7,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-281,Demo Shelter HP Shimla-07,Shimla,Himachal Pradesh,Earthquake,120,1,119,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-282,Demo Shelter HP Shimla-08,Shimla,Himachal Pradesh,Landslide,148,141,7,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-283,Demo Shelter HP Shimla-09,Shimla,Himachal Pradesh,Heavy snowfall,176,151,25,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-284,Demo Shelter HP Shimla-10,Shimla,Himachal Pradesh,Severe weather,63,6,57,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-285,Demo Shelter HP Shimla-11,Shimla,Himachal Pradesh,Flash flood,91,22,69,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-286,Demo Shelter HP Shimla-12,Shimla,Himachal Pradesh,Earthquake,119,118,1,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-287,Demo Shelter HP Lahaul-Spiti-01,Lahaul and Spiti,Himachal Pradesh,Earthquake,156,138,18,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-288,Demo Shelter HP Lahaul-Spiti-02,Lahaul and Spiti,Himachal Pradesh,Landslide,184,7,177,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-289,Demo Shelter HP Lahaul-Spiti-03,Lahaul and Spiti,Himachal Pradesh,Heavy snowfall,71,46,25,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-290,Demo Shelter HP Lahaul-Spiti-04,Lahaul and Spiti,Himachal Pradesh,Severe weather,99,82,17,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-291,Demo Shelter HP Lahaul-Spiti-05,Lahaul and Spiti,Himachal Pradesh,Flash flood,127,54,73,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-292,Demo Shelter HP Lahaul-Spiti-06,Lahaul and Spiti,Himachal Pradesh,Earthquake,155,94,61,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-293,Demo Shelter HP Lahaul-Spiti-07,Lahaul and Spiti,Himachal Pradesh,Landslide,183,118,65,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-294,Demo Shelter HP Lahaul-Spiti-08,Lahaul and Spiti,Himachal Pradesh,Heavy snowfall,70,32,38,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-295,Demo Shelter HP Lahaul-Spiti-09,Lahaul and Spiti,Himachal Pradesh,Severe weather,98,4,94,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-296,Demo Shelter HP Lahaul-Spiti-10,Lahaul and Spiti,Himachal Pradesh,Flash flood,126,43,83,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-297,Demo Shelter HP Lahaul-Spiti-11,Lahaul and Spiti,Himachal Pradesh,Earthquake,154,52,102,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-298,Demo Shelter HP Lahaul-Spiti-12,Lahaul and Spiti,Himachal Pradesh,Landslide,182,46,136,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-299,Demo Shelter HP Bilaspur-01,Bilaspur,Himachal Pradesh,Landslide,78,52,26,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-300,Demo Shelter HP Bilaspur-02,Bilaspur,Himachal Pradesh,Heavy snowfall,106,93,13,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-301,Demo Shelter HP Bilaspur-03,Bilaspur,Himachal Pradesh,Severe weather,134,121,13,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-302,Demo Shelter HP Chamba-01,Chamba,Himachal Pradesh,Earthquake,129,47,82,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-303,Demo Shelter HP Chamba-02,Chamba,Himachal Pradesh,Landslide,157,93,64,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-304,Demo Shelter HP Chamba-03,Chamba,Himachal Pradesh,Heavy snowfall,185,121,64,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-305,Demo Shelter HP Hamirpur-01,Hamirpur,Himachal Pradesh,Flash flood,180,157,23,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-306,Demo Shelter HP Hamirpur-02,Hamirpur,Himachal Pradesh,Earthquake,67,60,7,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-307,Demo Shelter HP Hamirpur-03,Hamirpur,Himachal Pradesh,Landslide,95,76,19,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-308,Demo Shelter HP Solan-01,Solan,Himachal Pradesh,Severe weather,90,76,14,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-309,Demo Shelter HP Solan-02,Solan,Himachal Pradesh,Flash flood,118,47,71,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-310,Demo Shelter HP Solan-03,Solan,Himachal Pradesh,Earthquake,146,4,142,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-311,Demo Shelter HP Kinnaur-01,Kinnaur,Himachal Pradesh,Heavy snowfall,141,60,81,Yes,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-312,Demo Shelter HP Kinnaur-02,Kinnaur,Himachal Pradesh,Severe weather,169,0,169,Partial,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER
+DEMO-SH-313,Demo Shelter HP Kinnaur-03,Kinnaur,Himachal Pradesh,Flash flood,197,52,145,No,None,SYNTHETIC DEMO RECORD - NOT A REAL SHELTER

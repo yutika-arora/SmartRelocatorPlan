@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Smart Relocator Plan</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <header>
+        <h1>Smart Relocator Plan</h1>
+        <p>Disaster Relief and Shelter Allocation Management System</p>
+    </header>
+
+
+    <main>
+
+        <!-- WELCOME SECTION -->
+        <section class="panel">
+            <h2>Relocation Dashboard</h2>
+
+            <p class="description">
+                Monitor available shelters, search by district or state,
+                and view a relocation allocation report.
+            </p>
+        </section>
+
+
+        <!-- DASHBOARD STATISTICS -->
+        <section class="dashboard">
+
+            <div class="stat-card">
+                <h3>Total Shelters</h3>
+                <p id="totalShelters">0</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>Available Spaces</h3>
+                <p id="availableSpaces">0</p>
+            </div>
+
+            <div class="stat-card">
+                <h3>Full Shelters</h3>
+                <p id="fullShelters">0</p>
+            </div>
+
+        </section>
+
+
+        <!-- SHELTER SEARCH -->
+        <section class="panel">
+
+            <h2>Search Shelters</h2>
+
+            <p class="description">
+                Enter a district or state to find available
+                relief shelters and their details.
+            </p>
+
+            <form id="searchForm">
+
+                <label for="location">
+                    District or State
+                </label>
+
+                <input
+                    type="text"
+                    id="location"
+                    name="location"
+                    placeholder="Enter district or state name"
+                    required
+                >
+
+                <button type="submit" id="searchButton">
+                    Search Shelters
+                </button>
+
+            </form>
+
+            <div
+                id="searchMessage"
+                class="message"
+                aria-live="polite">
+            </div>
+
+            <div
+                id="shelterResults"
+                class="shelter-results">
+            </div>
+
+        </section>
+
+
+        <!-- ALLOCATION REPORT -->
+        <section class="panel">
+
+            <h2>Allocation Report</h2>
+
+            <p class="description">
+                Enter the number of people who need relocation.
+                The system will use the district or state entered
+                above and display the allocation report directly.
+            </p>
+
+            <form id="allocationForm">
+
+                <label for="people">
+                    Number of People to Relocate
+                </label>
+
+                <input
+                    type="number"
+                    id="people"
+                    name="people"
+                    placeholder="Enter number of people"
+                    min="1"
+                    step="1"
+                    required
+                >
+
+                <button type="submit" id="reportButton">
+                    View Allocation Report
+                </button>
+
+            </form>
+
+            <div
+                id="relocationMessage"
+                class="message"
+                aria-live="polite">
+            </div>
+
+            <div
+                id="allocationResults"
+                class="allocation-results">
+            </div>
+
+            <pre
+                id="reportResults"
+                class="report-box"
+                aria-live="polite"></pre>
+
+        </section>
+
+
+        <!-- FOOTER -->
+        <footer class="site-footer">
+            <p>Smart Relocator Plan | Academic Project</p>
+            <p>Demonstration system using sample shelter data.</p>
+        </footer>
+
+    </main>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+SMART RELOCATOR PLAN
+ALLOCATION REPORT
+Generated: 31-10-2026 11:32:50
+Requested people: 3000
+Selected location: bahraich
+--------------------------------
+
+Total people allocated: 0
+People remaining: 3000
+Districts used: None
+Result: Sufficient capacity was not available.
+
+Note: Synthetic demo data only. Not for real emergency decisions.
